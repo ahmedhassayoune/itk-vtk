@@ -207,10 +207,6 @@ The `register.py` script can be run with a parameter to compute the registration
 
 By looking at the images, we have selected three components that we believe to be tumors.
 
-![tumor_1](images/tumor_1.png)
-![tumor_2](images/tumor_2.png)
-![tumor_3](images/tumor_3.png)
-
 We tested 4 different semi-automatic segmentation methods :
 
 - [ConfidenceConnected](https://itk.org/Doxygen/html/classitk_1_1ConfidenceConnectedImageFilter.html)
